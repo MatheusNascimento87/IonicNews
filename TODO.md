@@ -1,4 +1,4 @@
-# TODO List
+# TODO
 
 ## Scrum Master
 - [ ] Estrutura Analítica do Projeto (EAP)
